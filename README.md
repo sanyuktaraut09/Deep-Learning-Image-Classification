@@ -1,5 +1,5 @@
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanyuktaraut09/Image-Classification-CNN/blob/main/CNN_PROJECT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanyuktaraut09/Deep-Learning-Image-Classification/blob/main/CNN_PROJECT.ipynb)
 # Image Classification using Custom CNN & Transfer Learning
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)]()
